@@ -77,11 +77,7 @@ while True:#menu
         break    
 
 '''
--Steven Alvarez 
 -Sebastian Alvarez
--Rashid Breedy
--Ricardo Sandi 
--Yuliana Romero
 '''
       
         
